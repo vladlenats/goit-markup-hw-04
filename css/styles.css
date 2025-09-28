@@ -25,10 +25,10 @@ img {
     max-width: 100%;
 }
 .container {
-  width: 1158px;
-  max-width: 100%;
-  margin: 0 auto;
-  padding: 0 15px;
+    width: 1158px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 /* ================= HEADER ================= */
 header {
@@ -420,6 +420,11 @@ h3 {
     fill: #4d5ae5;
  }
 /* ================= FOOTER ================= */
+.footer-container {
+    display: flex;
+    align-items: baseline;
+    margin-right: 120px;
+}
 .footer-link-logo {
     display: inline-block;
     margin-bottom: 16px;
