@@ -326,7 +326,7 @@ h3 {
 .social-item.first {
     margin-left: 0;
 }
-.social-icons .social-list {
+ .social-list {
     display: flex;
     justify-content: center;
     gap: 24px;
@@ -335,16 +335,16 @@ h3 {
     margin: 0;
     padding: 0;
 }
-.social-icons a:hover,
-.social-icons a:focus {
+.social-icon a:hover,
+.social-icon a:focus {
     background-color: #404bbf;
 }
-.social-icons .social-icon {
+.social-icon {
     width: 16px;
     height: 16px;
     fill: #f4f4fd;
 }
-.social-icons .social-icon {
+ .social-icon {
     width: 16px;
     height: 16px;
     fill: #8e8f99;
