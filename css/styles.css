@@ -453,11 +453,16 @@ h3 {
 .footer-social-link:first-child {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.footer-text, .social-text {
+.footer-text {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+.social-text {
+    font-weight: 500;
     color: #FFFFFF;
     margin-bottom: 16px;
 }
